@@ -1,0 +1,17 @@
+html {
+    background-color: azure;
+}
+
+body {
+    margin: 0;
+}
+
+.site-header {
+    background-color: blueviolet;
+    padding: 30px;
+    color: #fff;
+}
+
+.page-name {
+    margin: 0;
+}
